@@ -1,0 +1,5 @@
+lib/*.o
+src/*.o
+src/teken_state.h
+src/vtc_h2_dectbl.h
+vtest
